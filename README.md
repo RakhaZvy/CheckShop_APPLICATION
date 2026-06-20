@@ -149,11 +149,7 @@ pip install -r requirements.txt
 ---
 
 ## 👥 Tim
-
-- Jason Montolalu
-- Rakha Adinata Zavier
-- Muhammad Ridho Prakoso
-- Catherine Zaneta Adji
+Jason Montolalu, Rakha Adinata Zavier, Muhammad Ridho Prakoso, Catherine Zaneta Adji
 
 ---
 
