@@ -150,7 +150,10 @@ pip install -r requirements.txt
 
 ## 👥 Tim
 
-> Ganti bagian ini dengan nama anggota tim kalian.
+> Jason Montolalu
+> Rakha Adinata Zavier
+> Muhammad Ridho Prakoso
+> Catherine Zaneta Adji
 
 ---
 
