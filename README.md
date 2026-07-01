@@ -11,7 +11,7 @@ project/
 ├── app.py                    # Streamlit app
 ├── requirements.txt          # Dependencies
 ├── README.md
-│
+├── FullCodeNlp.ipynb         # Code yang berisi ;oad dataset, EDA, preprocessing, training model, dan evaluation
 ├── tfidf_vectorizer.pkl      # TF-IDF vectorizer (fit dari training)
 ├── label_encoder.pkl         # Label encoder (Negative/Neutral/Positive)
 ├── lr_model.pkl              # Model Logistic Regression
@@ -119,13 +119,7 @@ Buka browser di `http://localhost:8501`
 
 ## 📓 Notebook
 
-| File | Keterangan |
-|---|---|
-| `EDA_Lengkap.ipynb` | Exploratory Data Analysis lengkap |
-| `preprocessing_pipeline.ipynb` | Pipeline preprocessing lengkap |
-| `model_training_evaluation.ipynb` | Training, evaluasi, dan inference semua model |
-
----
+FullCodeNLP.ipynb berisi keseluruhan code yang kami lakukan dalam membuat model, mulai dari load dataset, EDA, Cleanining, Preprocessing, Training model, dan Evaluation
 
 ## 📦 Dependencies
 
@@ -152,7 +146,3 @@ pip install -r requirements.txt
 Jason Montolalu, Rakha Adinata Zavier, Muhammad Ridho Prakoso, Catherine Zaneta Adji
 
 ---
-
-## 📄 Lisensi
-
-Proyek ini dibuat untuk keperluan penelitian/akademik.
