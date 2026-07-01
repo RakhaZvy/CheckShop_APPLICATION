@@ -120,6 +120,7 @@ Buka browser di `http://localhost:8501`
 ## 📓 Notebook
 
 FullCodeNLP.ipynb berisi keseluruhan code yang kami lakukan dalam membuat model, mulai dari load dataset, EDA, Cleanining, Preprocessing, Training model, dan Evaluation
+*Untuk melihat isi code DAPAT DOWNLOAD TERLEBIH DAHULU*
 
 ## 📦 Dependencies
 
